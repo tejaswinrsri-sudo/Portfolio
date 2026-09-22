@@ -119,10 +119,10 @@ function TerminalCard() {
           {'\n'}
           {'  '}role: <span className="text-chart-2">'CSE Student'</span>,{'\n'}
           {'  '}year: <span className="text-chart-2">'First Year'</span>,{'\n'}
-          {'  '}stack: [<span className="text-chart-2">'C'</span>,{' '}
-          <span className="text-chart-2">'Python'</span>,{' '}
-          <span className="text-chart-2">'JS'</span>],{'\n'}
-          {'  '}learning: [<span className="text-chart-2">'Web3'</span>],{'\n'}
+          {'  '}stack: [<span className="text-chart-2">'Python'</span>,{' '}
+          <span className="text-chart-2">'HTML'</span>,{' '}
+          <span className="text-chart-2">'CSS'</span>],{'\n'}
+          {'  '}learning: [<span className="text-chart-2">'JS'</span>],{'\n'}
           {'  '}building: <span className="text-primary">true</span>,{'\n'}
           {'};'}
           {'\n\n'}
