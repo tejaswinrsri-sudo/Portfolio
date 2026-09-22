@@ -8,7 +8,7 @@ const technical = [
   { name: 'HTML', learning: false },
   { name: 'CSS', learning: false },
   { name: 'JavaScript', learning: true },
-  { name: 'Web3 Fundamentals', learning: true },
+  { name: 'CP Fundamentals', learning: true },
 ]
 
 const interests = [
