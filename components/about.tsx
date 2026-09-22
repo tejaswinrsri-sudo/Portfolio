@@ -23,7 +23,7 @@ export function About() {
               <span className="text-foreground">Core Python</span>, and I&apos;m currently
               deepening my skills in{' '}
               <span className="text-foreground">HTML, CSS, and JavaScript</span> alongside{' '}
-              <span className="text-foreground">Web3 fundamentals</span>.
+              <span className="text-foreground">CP fundamentals</span>.
             </p>
             <p>
               I&apos;m genuinely curious about emerging technology and how software can solve
