@@ -61,9 +61,9 @@ export function Hero() {
           </span>
 
           <h1 className="mt-6 font-heading text-5xl font-bold leading-[1.05] tracking-tight text-foreground sm:text-6xl lg:text-7xl">
-            Tejaswi
-            <br />
             Nagineni
+            <br />
+            Tejaswi
           </h1>
 
           <p className="mt-5 h-7 font-mono text-lg text-primary sm:text-xl">
