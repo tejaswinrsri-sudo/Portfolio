@@ -23,11 +23,11 @@ const projects = [
     live: 'https://lovely-travesseiro-c62fcc.netlify.app/',
   },
   {
-    title: 'Task Manager',
-    description: 'A clean to-do list that saves your tasks in the browser — add, complete, and clear, with zero dependencies.',
-    stack: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/tejaswinrsri-sudo/To-Do-Website',
-    live: 'https://to-do-website-snowy.vercel.app/',
+    title: 'CraveDrop',
+    description: 'Full-stack food ordering and table reservation platform with restaurant discovery, menu browsing, cart, orders, and reservations.',
+    stack: ['React', 'Clerk', 'MongoDB', 'Node.js'],
+    github: 'https://github.com/ntejaswi376-bit/Food-Booking-System',
+    live: 'https://food-booking-system-4low.onrender.com/',
   },
 ]
 
